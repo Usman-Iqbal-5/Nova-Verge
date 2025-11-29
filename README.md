@@ -1,6 +1,6 @@
 # 🌿 NovaVerge — Sustainable Tech Consulting (Demo Website)
 
-**NovaVerge** is a **demo website** created as a professional front-end development project built on top of **Bootstrap 5**. It represents a clean, modern consulting firm focused on eco-friendly operations and smart technologies.
+**NovaVerge** is a **demo website** created as a professional front-end development project built using **Bootstrap 5**, custom **CSS**. It represents a clean, modern consulting firm focused on eco-friendly operations and smart technologies.
 
 > 🚧 **This project is still under development** ⏳
 
